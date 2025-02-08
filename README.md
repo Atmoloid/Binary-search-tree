@@ -1,7 +1,3 @@
-Based on the gathered information, here's a draft for your README file:
-
----
-
 # Binary-search-tree
 
 BTS project
