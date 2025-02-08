@@ -36,16 +36,3 @@ To use the Binary Search Tree:
     ```
 3. Modify the `BinarySearchTree.js` file to test different functionalities.
 
-## Contributing
-Contributions are welcome! Please fork the repository and create a pull request with your changes.
-
-## License
-This project is licensed under the MIT License.
-
-## Contact
-For any questions or suggestions, feel free to open an issue or reach out to the project maintainer:
-- GitHub: [Atmoloid](https://github.com/Atmoloid)
-
----
-
-Feel free to modify this template according to your project's specifics.
